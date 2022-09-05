@@ -5,10 +5,11 @@
   padding-left: 10px;
 }
 
-/* Changes panel background */
+/* Changes panel background, word font, shifts words using padding */
 #navigation {
   background-color: grey;
   
+  padding-left: 80px;
 }
 
 /* When you hover over Home, Homework, Resource, and Recreation links they enlarge and are yellow */
@@ -22,3 +23,8 @@ a:hover {
   text-align: center;
   float: right;
 }
+
+/* Bolds and Underlines Instructor, Office, ..., Learning Outcomes dt tags */
+
+
+/* Edits Table */
