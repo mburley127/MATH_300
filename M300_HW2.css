@@ -8,7 +8,7 @@
 /* Changes panel background, word font, shifts words using padding */
 #navigation {
   background-color: grey;
-  
+  font-family: Comic Sans, Helvetica, sans-serif;
   padding-left: 80px;
 }
 
