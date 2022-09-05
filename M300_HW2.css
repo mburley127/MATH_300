@@ -1,3 +1,4 @@
+
 #heading {
   background-color: red;
   text-align: center;
@@ -12,4 +13,9 @@
 #image {
   text-align: center;
   float: right;
+}
+
+a:hover{
+  color:#ff0;
+  font-size: larger;
 }
