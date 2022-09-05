@@ -27,7 +27,8 @@ a:hover {
 /* Bolds and Underlines Instructor, Office, ..., Learning Outcomes dt tags */
 
 
-/* Edits Table */
+/* Add Red Table border, shift table to right side of page */
 table {
+  border: 5px solid red;
   
 }
