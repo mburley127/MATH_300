@@ -1,1 +1,70 @@
+h1{
+  color:green;
+  text-align: center;
+  font-family: Comic Sans,Helvetica, sans-serif;
+}
 
+body{
+  background-color:purple;
+  color: #fff;
+}
+
+.ugly{
+  text-align:center;
+  background-color: #00a;
+}
+
+table{
+  text-align:center;
+  margin-left:25%;
+  /*padding-left: 100px;*/
+}
+
+th{
+  border-bottom: 5px black dashed;
+}
+
+#image{
+  text-align:center;
+  float:right;
+}
+
+a{
+  color:yellow;
+  text-decoration:none;
+}
+
+/* Following is a pseudo-class - depends on the state of the link */
+a:visited{
+  color:orange;
+}
+
+a:hover{
+  color:#cce;
+  font-size: larger;
+}
+
+/* Following is a pseudo-element; has to do with position. */
+
+p::first-line{
+  font-size: larger;
+}
+p::first-letter{
+  font-size: xx-large;
+}
+
+li::marker{
+  content: '+ ';
+  font-size: xx-large;
+}
+p{
+  min-width:400px;
+}
+
+.equation{
+  text-align:center;
+  font-style: italic;
+}
+
+sup,sub{
+  font-size:xx-small;
