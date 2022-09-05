@@ -14,7 +14,7 @@
 
 /* When you hover over Home, Homework, Resource, and Recreation links they enlarge and are yellow */
 a:hover {
-  color:#ff0;
+  color: #ff0;
   font-size: larger;
 }
 
@@ -25,7 +25,11 @@ a:hover {
 }
 
 /* Bolds and Underlines Instructor, Office, ..., Learning Outcomes dt tags */
-
+dt {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #ccc;
+}
 
 /* Add Red Table border, shift table to right side of page */
 table {
