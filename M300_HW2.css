@@ -12,7 +12,7 @@
 }
 
 /* When you hover over Home, Homework, Resource, and Recreation links they enlarge and are yellow */
-a:hover{
+a:hover {
   color:#ff0;
   font-size: larger;
 }
