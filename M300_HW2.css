@@ -1,21 +1,24 @@
-
+/* Changes header background, centers text, adds left padding */
 #heading {
   background-color: red;
   text-align: center;
   padding-left: 10px;
 }
 
+/* Changes panel background */
 #navigation {
   background-color: grey;
   
 }
 
-#image {
-  text-align: center;
-  float: right;
-}
-
+/* When you hover over Home, Homework, Resource, and Recreation links they enlarge and are yellow */
 a:hover{
   color:#ff0;
   font-size: larger;
+}
+
+/* Moves photo to the right, centers text underneath it */
+#image {
+  text-align: center;
+  float: right;
 }
