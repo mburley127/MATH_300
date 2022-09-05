@@ -8,3 +8,8 @@
   background-color: grey;
   
 }
+
+#image {
+  text-align: center;
+  float: right;
+}
