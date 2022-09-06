@@ -5,6 +5,18 @@
   padding-left: 10px;
 }
 
+h1
+  {
+    color: white;
+    font-family: Comic Sans, Helvetica, sans-serif;
+  }
+  
+h2
+  {
+    color: white;
+    font-family: Comic Sans, Helvetica, sans-serif;
+  }
+
 /* Changes panel background, word font, shifts words using padding */
 #navigation {
   background-color: grey;
