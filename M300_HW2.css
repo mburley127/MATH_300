@@ -43,10 +43,14 @@ dt {
   color: #ccc;
 }
 
-/* Add Red Table border, shift table to right side of page */
+/* Shift text and table to center of the page (left of grey column banner) */
+dl {
+  text-align: center;
+}
+
+/* Add Red Table border */
 table {
   border: 5px solid red;
-  
 }
 
 /* Add Black Table border around all td entries */
