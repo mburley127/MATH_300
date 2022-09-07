@@ -48,9 +48,10 @@ dl {
   text-align: center;
 }
 
-/* Add Red Table border */
+/* Add Red Table border, align right */
 table {
   border: 5px solid red;
+  text-align: right;
 }
 
 /* Add Black Table border around all td entries */
