@@ -22,6 +22,7 @@ h2
   background-color: grey;
   font-family: Comic Sans, Helvetica, sans-serif;
   padding-left: 50px;
+  background-position: left;
 }
 
 /* When you hover over Home, Homework, Resource, and Recreation links they enlarge and are yellow */
