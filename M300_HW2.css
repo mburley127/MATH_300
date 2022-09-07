@@ -43,11 +43,6 @@ dt {
   color: #ccc;
 }
 
-/* Shift text and table to center of the page (left of grey column banner) */
-dl {
-  text-align: center;
-}
-
 /* Add Red Table border, align right */
 table {
   border: 5px solid red;
