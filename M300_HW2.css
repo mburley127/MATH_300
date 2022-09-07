@@ -1,7 +1,7 @@
 /* Changes header background, centers text, adds left padding */
 #heading {
   background-color: red;
-  text-align: center;
+  text-align: left;
   padding-left: 10px;
 }
 
@@ -20,6 +20,7 @@ h2
 /* Changes panel background, word font, shifts words using padding */
 #navigation {
   background-color: grey;
+  color: white;
   font-family: Comic Sans, Helvetica, sans-serif;
   padding-left: 50px;
   background-position: left;
