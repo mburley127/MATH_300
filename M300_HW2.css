@@ -47,7 +47,7 @@ dt {
 
 /* Pads words and table to shift to center */
 dl {
-  padding-left: 200px
+  padding-left: 200px;
 }
 
 /* Add Red Table border, align right */
