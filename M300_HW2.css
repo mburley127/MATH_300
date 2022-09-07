@@ -17,13 +17,14 @@ h2
     font-family: Comic Sans, Helvetica, sans-serif;
   }
 
-/* Changes panel background, word font, shifts words using padding */
+/* Changes panel background, word font, shifts words using padding, removes underline */
 #navigation {
   background-color: grey;
   color: white;
   font-family: Comic Sans, Helvetica, sans-serif;
   padding-left: 50px;
   background-position: left;
+  text-decoration: None;
 }
 
 /* When you hover over Home, Homework, Resource, and Recreation links they enlarge and are yellow */
