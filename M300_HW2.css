@@ -75,7 +75,8 @@ td {
 
 /* Move Footer to Center of screen */
 hr {
-  width: 100px;
+  width: 200px;
+  height: 5px;
   size: "10";
   text-align: center;
 }
