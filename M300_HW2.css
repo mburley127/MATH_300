@@ -1,6 +1,6 @@
 /* Changes header background, centers text, adds left padding */
 #heading {
-  background-color: #b00;
+  background-color: #900;
   text-align: left;
   padding-left: 30px;
 }
