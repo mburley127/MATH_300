@@ -48,12 +48,12 @@ dt {
 
 /* Shifts paragrah to the left with other info and table */
 p {
-  padding-left: 200px;
+  margin-left: 200px;
 }
 
 /* Pads Instructor, ..., Learning Outcomes and table to shift to center */
 dl {
-  padding-left: 200px;
+  margin-left: 200px;
 }
 
 /* Add Red Table border, align right */
