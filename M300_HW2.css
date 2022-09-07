@@ -65,3 +65,9 @@ td {
 #image {
   text-align: center;
 }
+
+/* Move Footer to Center of screen */
+hr {
+  width: 100px;
+  size: "10"
+}
