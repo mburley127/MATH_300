@@ -53,3 +53,8 @@ table {
 td {
   border: 1px solid black;
 }
+
+/* Move Footer to Center of screen */
+#image {
+  text-align: center;
+}
