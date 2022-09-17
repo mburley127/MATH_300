@@ -13,13 +13,22 @@ Following is a description that corresponds to your surname (i.e. your family na
 <h2 style="color:red"> The Algorithm </h2>
 
 Each letter of the alphabet can be mapped to a number; ignoring case, a/A maps to 1; b/B maps to 2; and so on. 
-Let $c_1, c_2, \dots, c_K$ denote the numbers associated letters of a name that contains $\K$ characters. 
+Let \(c_1, c_2, \dots, c_K\) denote the numbers associated letters of a name that contains \(\K\) characters. 
 
 $$
 \text{For}\ i = 1, 2, \dots, K\ \text{define}\ a_i = c_i/5.
 $$
 
 We define a function as
+  
+F(x) = sin(a_2\pi x+a_1) + \frac{1}{2}sin(a_3\pi x+a_1) + \frac{1}{2^2}sin(a_4\pi x+ a_1) +\cdots+\frac{1}{2^{K-2}}sin(a_K\pi x+ a_1).
+  
+<h2 style="color:red"> An Example </h2>
+  
+As an example, the function associated with the surname of the author of this document uses the map:
+Burley &#8594 {2, 21, 18, 12, 5, 25} = \({c_k}\). It follows that \(K = 6, {a_k} =\) {0.4, 4.2, 3.6, 2.4, 1, 5}, and
+
+
 
 </p>
 </body>
